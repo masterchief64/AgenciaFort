@@ -1,0 +1,6 @@
+body
+{
+	background-image: url(../../_shared/img/fondo-back.jpg);
+	background-size: 100%;
+}
+.modal-footer {   border-top: 0px; }
