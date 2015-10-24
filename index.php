@@ -19,6 +19,7 @@
   <div class="modal-content">
       <div class="modal-header">
           <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+          <center><img src="_shared/img/logo.png" width="250" height="100"></center>
           <h1 class="text-center">Login</h1>
       </div>
       <div class="modal-body">
