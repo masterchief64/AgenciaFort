@@ -3,6 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Inicio::Fort</title>
+	<link rel="stylesheet" href="vendor/css/styles.css">
 	<link rel="stylesheet" href="vendor/bootstrap/bootstrap.min.css">
 <script src="vendor/jquery.min.js"></script>
 <script src="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
@@ -53,10 +54,10 @@
         </div>
       </div>
     </div>
-    <div class="item"><img src="_shared/img/autos/slide3.jpg" style="width:100%" height="720" data-src="" alt="Third slide">
+    <div class="item"><img src="_shared/img/autos/slide3.jpg" style="width:100%" data-src="" alt="Third slide">
       <div class="container">
         <div class="carousel-caption">
-          <h1 style="top: 0px;">Alcanza la aventura de tu destino</h1> 
+          <h1 style="">Alcanza la aventura de tu destino</h1> 
           <p>Los mejores diseños para todo el mundo solo aqui, es mucho mas que un vehiculo. </p>
           <!--<p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>-->
         </div>
@@ -79,5 +80,16 @@
   })();
 
 </script>
+<div class="categorias">
+	<center>
+	<br>
+	<br>
+		<h1 class="txtImg">Un vehiculo para cada estilo de vida</h1>
+		<br>
+		<br>
+		<br>
+		<a style="font-size: 20px;" href="" class="btn btn-info">Encuentra el que mejor se ajusta al tuyo</a>
+	</center>
+</div>
 </body>
 </html>

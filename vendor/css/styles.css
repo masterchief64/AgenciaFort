@@ -1,6 +1,17 @@
 body
 {
-	background-image: url(../../_shared/img/fondo-back.jpg);
+	
 	background-size: 100%;
 }
 .modal-footer {   border-top: 0px; }
+.categorias{
+	background-image: url(../../_shared/img/autos/categorias.jpeg);
+	width: 100%;
+	height: 720px;
+}
+.txtImg{
+	
+	top: 200px;
+	left: 420px;
+	width: 100%;
+}
