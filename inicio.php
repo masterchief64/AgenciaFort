@@ -39,7 +39,7 @@
     <div class="item active"> <img src="_shared/img/autos/slide1.jpg" style="width:100%" alt="First slide">
       <div class="container">
         <div class="carousel-caption">
-          <h1>Dinamismo y potencia paa disfrutar</h1>
+          <h1>Dinamismo y potencia para disfrutar</h1>
           <p>Los mejores modelos para todo tipo de necesidades y gustos de acuerdo a cada personalidad.</p>
           <!--<p><a class="btn btn-lg btn-primary" href="#" role="button">Sign up today</a></p>-->
         </div>
@@ -82,14 +82,20 @@
 </script>
 <div class="categorias">
 	<center>
-	<br>
-	<br>
+	<br><br>
 		<h1 class="txtImg">Un vehiculo para cada estilo de vida</h1>
-		<br>
-		<br>
-		<br>
+		<br><br><br>
 		<a style="font-size: 20px;" href="" class="btn btn-info">Encuentra el que mejor se ajusta al tuyo</a>
 	</center>
 </div>
+<div class="demos">
+	<center>
+	<br><br><br><br><br><br><br><br>
+		<h1 class="txtImg">Conoce nuestros vehiculos</h1>
+		<br><br><br>
+		<a style="font-size: 20px;" href="" class="btn btn-info">Echa un vistazo</a>
+	</center>
+</div>
+<br>
 </body>
 </html>
