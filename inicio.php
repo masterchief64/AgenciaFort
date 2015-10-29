@@ -1,30 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<title>Inicio::Fort</title>
-	<link rel="stylesheet" href="vendor/css/styles.css">
-	<link rel="stylesheet" href="vendor/bootstrap/bootstrap.min.css">
-<script src="vendor/jquery.min.js"></script>
-<script src="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
-<link href="http://www.jqueryscript.net/css/jquerysctipttop.css" rel="stylesheet" type="text/css">
-	
-</head>
-<body>
-	<div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
-  <div class="navbar-header">
-    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"></button>
-    <a class="navbar-brand" href="#"><img src="_shared/img/logo.png" width="70" height="25" alt=""></a>
-    <ul class="nav navbar-nav">
-        <li class="active"><a href="#" class="glyphicon glyphicon-home">&nbsp;Inicio</a></li>
-        <li><a href="#" class="glyphicon glyphicon-road">&nbsp;Autos</a></li>
-        <li><a href="#" class="glyphicon glyphicon-flag">&nbsp;Demos</a></li>
-        <li><a href="#" class="glyphicon glyphicon-picture">&nbsp;Galsperia</a></li>
-        <li><a href="#" class="glyphicon glyphicon-wrench">&nbsp;Servicio</a></li>
-        <li><a href="#" class="glyphicon glyphicon-phone">&nbsp;Contacto</a></li>
-        <li><a href="#" class="glyphicon glyphicon-info-sign">&nbsp;Acerca De</a></li>
-  </div>
-</div>
+<?php 
+	include ('http://localhost/AgenciaFort/_shared/head.php');
+	include ('http://localhost/AgenciaFort/_shared/menu.php');
+ ?>
   <!--Carrusel-->
 
   <div id="myCarousel" class="carousel slide" data-ride="carousel"> 
